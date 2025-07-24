@@ -1,0 +1,23 @@
+Interview list
+- Basic English, introduction and overall experience
+- Functionality, pen if testing is required
+- Priority vs severity
+- Mandatory field used when writing test case, explain each
+- Steps of test plan, test case, test execution
+- Automation experience
+- Tool used
+- Basic terms of QA, definition. Ex functional testing, regression, production, retest
+- Agile and Scrum, 4 ceremonies
+- Different between waterfall and iterative
+- Environment knowledge
+- How to report bug
+- Strong/ weakness of yourself
+
+Main focus
+- Capability to gain knowledge, open-minded
+- Get along with team
+- Understand standard of testing is the key.
+
+Avoid
+- Skip question, try to answer from your experience as much as possible
+- Answer without good listening, keep catching the question and able to ask them to repeat the question
