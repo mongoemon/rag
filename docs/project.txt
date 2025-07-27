@@ -1,0 +1,287 @@
+
+Lotus
+Jun 2024 - Jun 2025Jun 2024 - Jun 2025
+Company logo
+Associated with Manao Software
+Lotus’s is a major retail chain in Thailand, formerly known as Tesco Lotus. It operates a wide range of store formats including hypermarkets, supermarkets, and convenience stores.
+Lotus’s Web, also known as Lotus’s Shop Online, is the official online shopping platform of Lotus’s. It allows customers to order groceries and household goods through its website or mobile app.
+Role and Responsibility
+- Manage products and inventory system to meet the requirements.
+- Manage test plan, design and execute test cases.
+- Transfer knowledge and provide documents to team.
+- Collaborate supporting between teams and investigate issue and root cause.
+Lotus’s is a major retail chain in Thailand, formerly known as Tesco Lotus. It operates a wide range of store formats including hypermarkets, supermarkets, and convenience stores. Lotus’s Web, also known as Lotus’s Shop Online, is the official online shopping platform of Lotus’s. It allows customers to order groceries and household goods through its website or mobile app. Role and Responsibility - Manage products and inventory system to meet the requirements. - Manage test plan, design and execute test cases. - Transfer knowledge and provide documents to team. - Collaborate supporting between teams and investigate issue and root cause.
+Skills: API Testing · Postman API · Playwright · DBeaver · Magento · New Relic · TestRail · GraphQL · HighJump · Jira · OpenSearch
+
+Manao Meals
+Aug 2022 - Aug 2024Aug 2022 - Aug 2024
+Manao Meals is web and mobile application which allows users as company members to order lunch meals in the app as company benefits provide to employee. As admins, they can assign restaurant details, menu into calendar on website then employees use the app to order food, adjust add-ons and submit to admin to process to restaurant.
+Roles and Responsibilities:
+• Define test plan, approaches, template and strategy for test coverage.
+• Define automation test plan, template and contribute documentation. 
+• Perform functional test and test case design.
+• Communicate between developer, QA and project owner.
+Manao Meals is web and mobile application which allows users as company members to order lunch meals in the app as company benefits provide to employee. As admins, they can assign restaurant details, menu into calendar on website then employees use the app to order food, adjust add-ons and submit to admin to process to restaurant. Roles and Responsibilities: • Define test plan, approaches, template and strategy for test coverage. • Define automation test plan, template and contribute documentation. • Perform functional test and test case design. • Communicate between developer, QA and project owner.
+
+Seller Center (Office Mate)
+Jan 2023 - Aug 2024Jan 2023 - Aug 2024
+Seller Center is an E-commerce web application and inventory system which allows vendors as sellers to join and manage their teams, order, campaign and products to Seller Center service system. It separates into admin site which admin can manage other admins, manage seller and their transaction, and seller site contains seller members who can manage their shop products and order transactions.
+ Roles and Responsibilities:
+• Manage and contribute documentation.
+Seller Center is an E-commerce web application and inventory system which allows vendors as sellers to join and manage their teams, order, campaign and products to Seller Center service system. It separates into admin site which admin can manage other admins, manage seller and their transaction, and seller site contains seller members who can manage their shop products and order transactions. Roles and Responsibilities: • Define test plan, approaches, template and strategy for test coverage. • Perform functional test and test case design. • Communicate between developer, QA and project owner. • Manage and contribute documentation.
+
+PTT Digital
+Sep 2022 - Dec 2022Sep 2022 - Dec 2022
+PTT Digital is a finance application that client requires QA standard and process to be applied along with application implementation, so QA tasks contains only creating documentation to cover QA standard process. 
+• Contribute documentation for Standard Quality Assurance, covering DevSecOps process with user acceptance criteria.
+Technologies Utilized:
+PTT Digital is a finance application that client requires QA standard and process to be applied along with application implementation, so QA tasks contains only creating documentation to cover QA standard process. Roles and Responsibilities: • Contribute documentation for Standard Quality Assurance, covering DevSecOps process with user acceptance criteria. • Communicate between developer, QA and project owner. Technologies Utilized:
+
+True Online Store
+Apr 2022 - Jul 2022Apr 2022 - Jul 2022
+Associated with RingZero Networks (Thailand) Co., Ltd.
+Show project
+Project Name: True Online Store
+Platform: Web-based app
+Target: Everyone
+Project description
+True Online Store is a E-commerce website by True Corporation, provide True product and service for customer and True membership.
+Role & Responsibility
+ - Test planning, analysis and design to cover business requirements
+ - Test case design and execution from day-to-day basis
+ - Generate test data and test script for manual and automation testing
+ - Perform static and dynamic testing to cover acceptances
+Project Name: True Online Store Platform: Web-based app Target: Everyone Project description True Online Store is a E-commerce website by True Corporation, provide True product and service for customer and True membership. Role & Responsibility - Test planning, analysis and design to cover business requirements - Test case design and execution from day-to-day basis - Generate test data and test script for manual and automation testing - Perform static and dynamic testing to cover acceptances
+
+Linage W
+Nov 2021 - Jun 2022Nov 2021 - Jun 2022
+Platform: iOS, Android, PC
+Target group: 17+ 
+For the World, Lineage W
+The true Lineage that gathered everything from the Lineage series that lasted for 24 years
+Global scale MMORPG where players all over the world fight for their glories.
+▶ Aden World, 150 years later from the original story
+Pick a story among lord, knight, fairy, and mage and explore
+a dark fantasy world recreated with amazing details.
+Explore Aden, 150 years later from the original Lineage
+- Define test scope, plan, data and documentation to cover test standard
+- Maintanance testing, investigate and analyze issues
+- Playthough testing as end-user on production environment
+Platform: iOS, Android, PC Target group: 17+ Project description For the World, Lineage W The true Lineage that gathered everything from the Lineage series that lasted for 24 years Global scale MMORPG where players all over the world fight for their glories. ▶ Aden World, 150 years later from the original story Pick a story among lord, knight, fairy, and mage and explore a dark fantasy world recreated with amazing details. Explore Aden, 150 years later from the original Lineage Role & Responsibility - Define test scope, plan, data and documentation to cover test standard - Maintanance testing, investigate and analyze issues - Playthough testing as end-user on production environment
+
+7-11
+Aug 2021 - Dec 2021Aug 2021 - Dec 2021
+Associated with RingZero Game Studio Co., Ltd.
+Platform: iOS, Android, Chinese Android
+Target group: Everyone
+Project Description: Welcome 'ALL member' 7-Eleven membership program. Apply now to get a discount over 160 baht! at 7-Eleven stores, 7Delivery service and All Online with free delivery. To super save and get more benefit, you can earn coupons, get discount, check – redeem – transfer ALL points and pay with credit card via Truemoney Wallet etc. - all on 7App
+Role and responsibilities 
+- Supervision and coordinate between teams, developers, internal and external QA
+- Test analysis, planning and management 
+- Manager QA processes to new campaign and features to each releases 
+- Transfer testing tool knowledge to teams
+Platform: iOS, Android, Chinese Android Target group: Everyone Project Description: Welcome 'ALL member' 7-Eleven membership program. Apply now to get a discount over 160 baht! at 7-Eleven stores, 7Delivery service and All Online with free delivery. To super save and get more benefit, you can earn coupons, get discount, check – redeem – transfer ALL points and pay with credit card via Truemoney Wallet etc. - all on 7App Role and responsibilities - Supervision and coordinate between teams, developers, internal and external QA - Test analysis, planning and management - Manager QA processes to new campaign and features to each releases - Transfer testing tool knowledge to teams
+
+Aliveunited
+Jun 2020 - Dec 2021Jun 2020 - Dec 2021
+- Test planning, monitoring, analysis and design.
+- Functional and playthrough testing, collected requirements and passed on information to the tester team.
+- Document review, managed test scenarios and coordinated with the developer team, tester team and managers.
+- Design, UI and UX consultant with Project Owner to anaylyze whole system.
+Role & Responsibility - Test planning, monitoring, analysis and design. - Functional and playthrough testing, collected requirements and passed on information to the tester team. - Document review, managed test scenarios and coordinated with the developer team, tester team and managers. - Design, UI and UX consultant with Project Owner to anaylyze whole system.
+
+Curaprox
+Jan 2021 - Dec 2021Jan 2021 - Dec 2021
+Project Name: Curaprox
+Platform: iOS, Android
+ Become an enthusiastic follower of your dental routines, with the Curaprox App!
+Truth be told, the way you take care of your teeth every day is critical in the success of your overall oral health and any dental treatments. Remember: it’s not about “quickfixes” done at your annual dentist visits, but a series of actions you ought to perform daily.
+So, what’s the ultimate key to success? It’s staying motivated in long-term to perform efficient and regular self-dental care!
+And Curaden now brings you the perfect tool to help with that. The Curaprox App will allow you ensure you’re giving yourself the best preventive dental care year-round, from wherever you are.
+With this app, you can stay in touch with your dental professional throughout the year, and find lectures, educational articles and top-quality products that will help you follow your routines consciously and enjoyably.
+Project Name: Curaprox Platform: iOS, Android Target group: Everyone Project description Become an enthusiastic follower of your dental routines, with the Curaprox App! Truth be told, the way you take care of your teeth every day is critical in the success of your overall oral health and any dental treatments. Remember: it’s not about “quickfixes” done at your annual dentist visits, but a series of actions you ought to perform daily. So, what’s the ultimate key to success? It’s staying motivated in long-term to perform efficient and regular self-dental care! And Curaden now brings you the perfect tool to help with that. The Curaprox App will allow you ensure you’re giving yourself the best preventive dental care year-round, from wherever you are. With this app, you can stay in touch with your dental professional throughout the year, and find lectures, educational articles and top-quality products that will help you follow your routines consciously and enjoyably. Role & Responsibility - Test planning, monitoring, analysis and design. - Functional and playthrough testing, collected requirements and passed on information to the tester team. - Document review, managed test scenarios and coordinated with the developer team, tester team and managers.
+
+Curaprox Pro
+Platform: iOS and Android app
+Product description:
+Help your patients stay motivated, and stand out as a great dental professional. Try the new Curaprox App!
+There is ever-growing evidence that a patient’s individual behaviour is critical in the success of dental therapies. Therefore, patients need to understand that dental care is not about “quick fixes”, but a series of actions performed on an everyday basis.
+A key issue for every dental professional is motivating their patients to perform sufficient and efficient self-dental care, but now, Curaden can help you with that.
+The new Curaprox App helps motivate your patients, and enables you to easily communicate with and support them all throughout the year.
+Platform: iOS and Android app Target group: Everyone Product description: Help your patients stay motivated, and stand out as a great dental professional. Try the new Curaprox App! There is ever-growing evidence that a patient’s individual behaviour is critical in the success of dental therapies. Therefore, patients need to understand that dental care is not about “quick fixes”, but a series of actions performed on an everyday basis. A key issue for every dental professional is motivating their patients to perform sufficient and efficient self-dental care, but now, Curaden can help you with that. The new Curaprox App helps motivate your patients, and enables you to easily communicate with and support them all throughout the year. Role & Responsibility - Test planning, monitoring, analysis and design. - Functional and playthrough testing, collected requirements and passed on information to the tester team. - Document review, managed test scenarios and coordinated with the developer team, tester team and managers.
+
+Hotel Life: A Resort Simulator
+Aug 2020 - Dec 2021Aug 2020 - Dec 2021
+Test planning, monitoring, analysis and design.
+Functional and playthrough testing, collected requirements and passed on information to the tester team.
+Document review, managed test scenarios and coordinated with the developer team, tester team and managers.
+Coordinated developer team to request test tools for game level testing and improve QA processes.
+Research PC and console guidelines and pass information to the team to understand more about specific requirements and limitations for submission.
+Role & Responsibility Test planning, monitoring, analysis and design. Functional and playthrough testing, collected requirements and passed on information to the tester team. Document review, managed test scenarios and coordinated with the developer team, tester team and managers. Coordinated developer team to request test tools for game level testing and improve QA processes. Research PC and console guidelines and pass information to the team to understand more about specific requirements and limitations for submission.
+
+Lumen.
+Platform: iOS app Apple Arcade
+Target group: Casual gamer
+Lumen. is a new type of puzzle game on Apple Arcade, where the player has to solve levels using lights, lenses and mirrors.
+The player will turn up in the old attic and discover the mysterious antique box of Ms. Olivia McLumen, who lived in Scotland over a hundred years ago and was a great inventor of her time.
+- Coordinated developer team to request test tools for game level testing and improve QA processes.
+- Research PC and console guidelines and pass information to the team to understand more about specific requirements and limitations for submission.
+Platform: iOS app Apple Arcade Target group: Casual gamer Project description Lumen. is a new type of puzzle game on Apple Arcade, where the player has to solve levels using lights, lenses and mirrors. The player will turn up in the old attic and discover the mysterious antique box of Ms. Olivia McLumen, who lived in Scotland over a hundred years ago and was a great inventor of her time. Role & Responsibility - Test planning, monitoring, analysis and design. - Functional and playthrough testing, collected requirements and passed on information to the tester team. - Document review, managed test scenarios and coordinated with the developer team, tester team and managers. - Coordinated developer team to request test tools for game level testing and improve QA processes. - Research PC and console guidelines and pass information to the team to understand more about specific requirements and limitations for submission.
+
+Pick
+Nov 2020 - Dec 2020Nov 2020 - Dec 2020
+- Coordinated with the external production and passed testing criteria to external tester teams.
+- Functional, and api testing between software and hardware remotely to ensure app can syncronize as client acceptance.
+Role & Responsibility - Coordinated with the external production and passed testing criteria to external tester teams. - Functional, and api testing between software and hardware remotely to ensure app can syncronize as client acceptance.
+
+City of Games
+Mar 2018 - Sep 2020Mar 2018 - Sep 2020
+Project Name: City of Games
+ The City of Games app lets you play totally free both classic as well as no commission modes of baccarat. Baccarat is one of the hottest card games on the planet! It is now not only the most common table game played in Macau but is undoubtedly one of the world's most popular amongst players! It has a very low house edge, and you get to squeeze the cards to make the game even more exciting. In addition, City of Games offers 3D card squeezing that makes the entire squeeze process even more breathtaking! All FREE-TO-PLAY!!! Download the game now and play for free with your friends!
+- Release control, submit application to Apple and Google stores
+Project Name: City of Games Platform: iOS, Android, Chinese Android Target group: Everyone Project description The City of Games app lets you play totally free both classic as well as no commission modes of baccarat. Baccarat is one of the hottest card games on the planet! It is now not only the most common table game played in Macau but is undoubtedly one of the world's most popular amongst players! It has a very low house edge, and you get to squeeze the cards to make the game even more exciting. In addition, City of Games offers 3D card squeezing that makes the entire squeeze process even more breathtaking! All FREE-TO-PLAY!!! Download the game now and play for free with your friends! Role & Responsibility - Test planning, monitoring, analysis and design. - Functional and playthrough testing, collected requirements and passed on information to the tester team. - Document review, managed test scenarios and coordinated with the developer team, tester team and managers. - Coordinated developer team to request test tools for game level testing and improve QA processes. - Release control, submit application to Apple and Google stores
+
+Tint.
+Sep 2019 - Jan 2020Sep 2019 - Jan 2020
+- Coordinated with the external production and passed testing criteria and other game information to external tester teams.
+- Functional testing of new features and playthrough testing to ensure the game can progress correctly as expected with new integrated contents 
+- Monitoring external teams closely from the regression process to cover client and store acceptance.
+- Device coverage testing, to ensure app can work correctly to MacOS, TvOS and iOS devices with and without peripheral game controllers
+Role & Responsibility - Coordinated with the external production and passed testing criteria and other game information to external tester teams. - Functional testing of new features and playthrough testing to ensure the game can progress correctly as expected with new integrated contents - Monitoring external teams closely from the regression process to cover client and store acceptance. - Device coverage testing, to ensure app can work correctly to MacOS, TvOS and iOS devices with and without peripheral game controllers
+
+Panya
+May 2018 - Dec 2018May 2018 - Dec 2018
+- Test planning, gathered new requirements from clients directly and passed on information to the tester team. 
+- Test suite control, created, updated, prioritized and defined test cases from test suite for regression testing to reach client acceptance Handled responsibility for test tools, implemented processes for automation to prepare test data. Additionally created technical documents for internal purposes.
+- Investigated network link conditions to perform stability testing, make sure the app works to various network status.
+Role & Responsibility - Test planning, gathered new requirements from clients directly and passed on information to the tester team. - Test suite control, created, updated, prioritized and defined test cases from test suite for regression testing to reach client acceptance Handled responsibility for test tools, implemented processes for automation to prepare test data. Additionally created technical documents for internal purposes. - Investigated network link conditions to perform stability testing, make sure the app works to various network status.
+
+ImaginMe
+Jan 2017 - Jan 2018Jan 2017 - Jan 2018
+- Functional and compatibility testing, verified character customization and linking between ImaginMe apps correctly.
+Role & Responsibility - Functional and compatibility testing, verified character customization and linking between ImaginMe apps correctly.
+ImaginMe Beauty and the Beast
+- Built on client concepts to design control behaviours, character customization, game environment and mini games to meet client acceptance.
+- Art Asset management, designed specification, limitation and performed optimization for device coverage.
+- Level designing with Unity to generate mini games and performed own unit, integration and system testing to meet requirements.
+- Functional and playthrough testing with both manual and automation testing to ensure the app can perform proper game loop testing.
+- Game version controlling and submitting game builds via Google Play Console and iTunes Connect.
+Role & Responsibility - Built on client concepts to design control behaviours, character customization, game environment and mini games to meet client acceptance. - Art Asset management, designed specification, limitation and performed optimization for device coverage. - Level designing with Unity to generate mini games and performed own unit, integration and system testing to meet requirements. - Functional and playthrough testing with both manual and automation testing to ensure the app can perform proper game loop testing. - Game version controlling and submitting game builds via Google Play Console and iTunes Connect.
+
+ImaginMe Dragons
+- Level designing with Unity to generate pattern and obstacles and performed own unit, integration and system testing to meet requirements.
+Role & Responsibility - Built on client concepts to design control behaviours, character customization, game environment and mini games to meet client acceptance. - Art Asset management, designed specification, limitation and performed optimization for device coverage. - Level designing with Unity to generate pattern and obstacles and performed own unit, integration and system testing to meet requirements. - Functional and playthrough testing with both manual and automation testing to ensure the app can perform proper game loop testing. - Game version controlling and submitting game builds via Google Play Console and iTunes Connect.
+
+ImaginMe Jungle Book
+ImaginMe Little Bean
+Functional tester
+- Functional and playthrough testing to ensure the game can progress correctly as requirements.
+Role & Responsibility Functional tester - Functional and playthrough testing to ensure the game can progress correctly as requirements.
+Tesco Lotus Shopping Spree
+May 2015 - Apr 2016May 2015 - Apr 2016
+- Built on client concepts to design promotional infinite running games to meet client acceptance.
+- Designed specification, limitation and optimization to cover low end devices.
+- Level designing with Unity to generate stage patterns and perform own unit, integration and system testing.
+- Handling responsibility for test tools and developing improvement processes.
+Role & Responsibility - Built on client concepts to design promotional infinite running games to meet client acceptance. - Designed specification, limitation and optimization to cover low end devices. - Level designing with Unity to generate stage patterns and perform own unit, integration and system testing. - Handling responsibility for test tools and developing improvement processes.
+
+Totem Defender
+Jan 2015 - Jan 2016Jan 2015 - Jan 2016
+- Project planning, built on client concepts to design games contents from scratch to be the final product to meet client acceptance.
+- Researched and designed monetization for F2P games, targeted to both free and paid mobile users.
+- Level designing with Unity to generate stage patterns, level progress, difficulty level and perform own unit, integration and system testing to cover low end devices.
+- Coordinated with the production team closely and managed sprint goal planning.
+Role & Responsibility - Project planning, built on client concepts to design games contents from scratch to be the final product to meet client acceptance. - Researched and designed monetization for F2P games, targeted to both free and paid mobile users. - Level designing with Unity to generate stage patterns, level progress, difficulty level and perform own unit, integration and system testing to cover low end devices. - Coordinated with the production team closely and managed sprint goal planning.
+
+Mes Comptines for 3DS
+Jul 2014 - Nov 2014Jul 2014 - Nov 2014
+- Built on client concepts to design additional game play from karaoke to rhythm tap game to meet client acceptance.
+- Level designing, improved learning curve to cover more target players and replayability with various difficulty levels. 
+- Game version controlling and submitting game builds via Nintendo with LotCheck guidelines.
+Role & Responsibility - Built on client concepts to design additional game play from karaoke to rhythm tap game to meet client acceptance. - Level designing, improved learning curve to cover more target players and replayability with various difficulty levels. - Game version controlling and submitting game builds via Nintendo with LotCheck guidelines.
+
+My First Songs 2 for 3DS
+Feb 2014 - Sep 2014Feb 2014 - Sep 2014
+
+My First Songs for 3DS
+May 2014 - Sep 2014May 2014 - Sep 2014
+
+Lolirock
+Jul 2014 - Aug 2014Jul 2014 - Aug 2014
+- Level desgining, design karaoke pitch level and synced to vocal line.
+- Functional and regression testing to mini game, character and stage customization
+Role & Responsibility - Level desgining, design karaoke pitch level and synced to vocal line. - Functional and regression testing to mini game, character and stage customization
+
+Meine ersten Mitsing-Lieder for WiiU
+Apr 2014 - Aug 2014Apr 2014 - Aug 2014
+- Remastering from Wii to WiiU version, functional and regression testing with peripheral devices.
+- Customer supporting and services.
+- Remastering from Wii to WiiU version, functional and regression testing with peripheral devices. - Game version controlling and submitting game builds via Nintendo with LotCheck guidelines. - Customer supporting and services.
+
+Mon Premier Karaoké for WiiU
+Feb 2014 - Jul 2014Feb 2014 - Jul 2014
+Hummingbird and Ladybug
+Jan 2014 - Feb 2014Jan 2014 - Feb 2014
+- Performed functional, regression, playthrough testing and log tracking.
+Role & Responsibility - Performed functional, regression, playthrough testing and log tracking.
+
+AeternoBlade for 3DS
+Jan 2012 - Oct 2013Jan 2012 - Oct 2013
+Associated with Corecell Technology Co., Ltd.
+- Handling responsibility for test tools and QA improvement processes.
+- Functional, regression, playthrough testing to ensure the game can progress and unlock all contents as designed correctly.
+- Handling responsibility for test tools and developing improvement processes for testing and generating game cutscenes.
+- Level designing and difficulty control, fine tuning effects and particles.
+- Game version controlling and submitting game builds and DLC to Nintendo US, EU and JP regions.
+- Created video trailer for promotional purposes.
+Role & Responsibility - Handling responsibility for test tools and QA improvement processes. - Functional, regression, playthrough testing to ensure the game can progress and unlock all contents as designed correctly. - Handling responsibility for test tools and developing improvement processes for testing and generating game cutscenes. - Level designing and difficulty control, fine tuning effects and particles. - Game version controlling and submitting game builds and DLC to Nintendo US, EU and JP regions. - Created video trailer for promotional purposes.
+Other contributorsOther contributors
+
+Deadly Premonition: The Director's Cut for Steam
+Aug 2013 - Oct 2013Aug 2013 - Oct 2013
+Built on PS3 and Steam versions, designed additional contents, character control and customization to match with client, Steam submission requirements.
+Functional, regression, playthrough testing to ensure the game can progress and unlock all contents as designed correctly as requirements.
+Role & Responsibility Built on PS3 and Steam versions, designed additional contents, character control and customization to match with client, Steam submission requirements. Functional, regression, playthrough testing to ensure the game can progress and unlock all contents as designed correctly as requirements.
+
+Deadly Premonition: Director's Cut for PS3
+Jun 2012 - Jul 2013Jun 2012 - Jul 2013
+- Remastering from XBOX360 to PS3 version, designed additional contents, character control and customization to match with client, Sony submission requirements.
+- Functional, regression, playthrough testing to ensure the game can progress and unlock all contents as designed correctly as requirements.
+Role & Responsibility - Remastering from XBOX360 to PS3 version, designed additional contents, character control and customization to match with client, Sony submission requirements. - Functional, regression, playthrough testing to ensure the game can progress and unlock all contents as designed correctly as requirements.
+
+Wicked Monster BLAST! for PS3
+May 2012 - Sep 2012May 2012 - Sep 2012
+- Game, level designing and art asset control, produced from the beginning to final product.
+- Functional, regression, playthrough testing to ensure the game can progress and unlock all contents as designed correctly. 
+- Game version controlling and submitting game builds and to Sony PlayStation.
+Role & Responsibility - Game, level designing and art asset control, produced from the beginning to final product. - Functional, regression, playthrough testing to ensure the game can progress and unlock all contents as designed correctly. - Game version controlling and submitting game builds and to Sony PlayStation.
+
+Crazy Strike Bowling for PS3
+Mar 2011 - Aug 2012Mar 2011 - Aug 2012
+- Functional, regression and playthrough testing to ensure player can go through to all area 
+- Handling responsibility for test tools and developing improvement processes for testing, pin, obstacle and physic editor.
+- Game version controlling and submitting game builds Sony PlayStation US, EU, and Asia.
+Role & Responsibility - Functional, regression and playthrough testing to ensure player can go through to all area - Handling responsibility for test tools and developing improvement processes for testing, pin, obstacle and physic editor. - Game version controlling and submitting game builds Sony PlayStation US, EU, and Asia.
+
+Wicked Monsters Type!
+Jan 2012 - Apr 2012Jan 2012 - Apr 2012
+- Created game design for promotional purposes as a Google HTML5 game. Transfer art assets from the original shooting game to typing game.
+- Functional and regression testing to ensure the game meets google game acceptance.
+Role & Responsibility - Created game design for promotional purposes as a Google HTML5 game. Transfer art assets from the original shooting game to typing game. - Functional and regression testing to ensure the game meets google game acceptance.
+
+B-Units Build It for 3DS & Wii
+Jan 2010 - Jan 2012Jan 2010 - Jan 2012
+B-Units: Build It! is a 2D casual construction game where players complete fun mini-games to build each part of a structure. With colorful characters and quick tasks like sawing, wiring, and bricklaying, it offers a short and enjoyable building experience. 
+- Functional and playthrough testing and game level controlling.
+- Handling responsibility for test tools and developing improvement process for testing, managed script editor for level control.
+B-Units: Build It! is a 2D casual construction game where players complete fun mini-games to build each part of a structure. With colorful characters and quick tasks like sawing, wiring, and bricklaying, it offers a short and enjoyable building experience. Role & Responsibility - Functional and playthrough testing and game level controlling. - Handling responsibility for test tools and developing improvement process for testing, managed script editor for level control.
+
+Wicked Monsters BLAST! for Wii
+Jan 2010 - Jan 2011Jan 2010 - Jan 2011
+Wicked Monsters BLAST! is a 2D casual shooting game developed by Thai studio Corecell Technology. Supporting up to 4 players, it delivers fast-paced, arcade-style fun with colorful, cartoon characters and quick mini-games lasting 60–90 seconds. Inspired by classics like Point Blank, the game features competitive and family-friendly modes, making it perfect for parties or lighthearted battles with friends.
+Responsibility
+Level designer, Quality assurance, Lead Tester, Release Control
+Wicked Monsters BLAST! is a 2D casual shooting game developed by Thai studio Corecell Technology. Supporting up to 4 players, it delivers fast-paced, arcade-style fun with colorful, cartoon characters and quick mini-games lasting 60–90 seconds. Inspired by classics like Point Blank, the game features competitive and family-friendly modes, making it perfect for parties or lighthearted battles with friends. Responsibility Level designer, Quality assurance, Lead Tester, Release Control
+
+Yuth
+Yuth is a 3D fighting game developed in Thailand that won the SIPA Game Pitch Award. Set in the historical era of Ayutthaya, the game features intense battles between Thai warriors and invading forces from Myanmar. With rich Thai cultural themes and traditional combat styles, Yuth delivers a visually striking and action-packed experience that celebrates Thai heritage through modern gameplay.

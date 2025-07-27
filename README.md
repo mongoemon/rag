@@ -60,24 +60,31 @@ If you haven’t installed Ollama yet:
 
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
-Start the Ollama server:
+
 ```
 
+Start the Ollama server:
 ```bash
-Copy
 ollama serve
-
 ```
 
 Pull at least one model:
 ```bash
 ollama pull mistral
 ollama pull llama3
+ollama pull phi3
 ```
 
 5. ▶️ Run the App
 ```bash
 streamlit run rag.py
+```
+
+To stop model
+```bash
+ollama stop mistral
+ollama stop llama3
+ollama stop phi3
 ```
 
 Your browser will open at http://localhost:8501.
