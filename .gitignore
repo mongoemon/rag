@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# Environment
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit cache
+.streamlit/
+**/.streamlit/
+
+# VSCode config
+.vscode/
+
+# Mac/Linux/Windows hidden files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Uploaded/temporary/generated data
+docs/
+temp/
+rag_data/
+*.tmp
+*.bak
+
+# Downloads
+qa_history.txt
+qa_history.csv
